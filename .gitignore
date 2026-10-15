@@ -1,0 +1,8 @@
+# Script output: contains temporary passwords and reports. Never commit.
+output/
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
+.vscode/
+*.tmp

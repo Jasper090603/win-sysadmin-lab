@@ -1,0 +1,16 @@
+TicketId,Opened,Requester,Type,TargetUser,FirstName,LastName,Department,Title,Group,Details
+INC-1001,2026-10-05 09:12,opelletier,NewUser,,Nora,Lambert,Finance,Junior Accountant,,New hire starting Monday
+INC-1002,2026-10-05 09:40,opelletier,NewUser,,Raj,Patel,Engineering,Firmware Co-op,,4-month co-op term
+INC-1003,2026-10-05 10:02,opelletier,NewUser,,Elena,Garcia,,,,New hire; department not given
+INC-1004,2026-10-05 10:15,ewong,PasswordReset,ewong,,,,,,Forgot password after vacation; identity verified by callback
+INC-1005,2026-10-05 11:30,cgirard,PasswordReset,cgirard,,,,,,Password expired while travelling; identity verified by manager
+INC-1006,2026-10-05 13:05,jdoe,PasswordReset,jdoe,,,,,,Caller says account name is jdoe
+INC-1007,2026-10-06 08:47,wnguyen,UnlockAccount,wnguyen,,,,,,Locked out after changing password on phone
+INC-1008,2026-10-06 09:20,pnair,UnlockAccount,pnair,,,,,,Locked out after too many attempts
+INC-1009,2026-10-06 10:00,amehta,AddToGroup,eroy,,,,,DL_Share_Sales_RO,Read access to Sales forecasts for Q4 budget; approved by data owner cgirard
+INC-1010,2026-10-06 10:45,dpark,AddToGroup,dpark,,,,,Domain Admins,Wants admin rights to install test tools
+INC-1011,2026-10-06 11:10,jfortin,AddToGroup,ileblanc,,,,,,Needs access to the shared drive
+INC-1012,2026-10-07 14:00,amehta,RemoveFromGroup,eroy,,,,,DL_Share_Sales_RO,Q4 budget complete; access no longer needed
+INC-1013,2026-10-08 16:30,opelletier,Offboard,lmartin,,,,,,Last day Friday Oct 9
+INC-1014,2026-10-08 16:35,opelletier,Offboard,zkaur,,,,,,Contract ended
+INC-1015,2026-10-09 09:05,ohaddad,PasswordReset,Administrator,,,,,,Reset built-in Administrator password
